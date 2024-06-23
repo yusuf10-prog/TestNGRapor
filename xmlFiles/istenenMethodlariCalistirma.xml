@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="istenen methodlari calistirma">
+    <test name="e2e test">
+        <classes>
+            <class name="day17_testNGFramaWork.C02_QualitydemiyPozitifLoginTesti">
+                <methods>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
