@@ -58,7 +58,7 @@ public class AdminDashboard {
     @FindBy(xpath = "(//*[@class='mb-1 text-decoration-none fs-6'])[1]")
     public WebElement kullaniciSecim;
 
-    // kullanici ekraninda oldugumu doğrulama
+    // kullanici ekraninda oldugumu doğrulama 
     @FindBy(xpath = "//button[@id='overview-tab']")
     public WebElement kullaniciEkrani;
 
